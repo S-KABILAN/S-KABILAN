@@ -48,10 +48,10 @@
 ---
 
 ## 🌐 Connect with Me  
-- 🌐 [Portfolio]([https://kabilan-portfolio.com](https://my-portfolio-eight-dun-84.vercel.app/))  
-- 💼 [LinkedIn]([https://linkedin.com/in/kabilan](https://www.linkedin.com/in/kabilan-s-3aab74256/))  
+- 🌐 [Portfolio](https://my-portfolio-eight-dun-84.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kabilan-s-3aab74256/) 
 - 📧 [Email](mailto:kabilanselvakumar313@gmail.com)  
-- 🐦 [Twitter]([https://twitter.com/kabilan](https://x.com/KabilanSelvaku2))
+- 🐦 [Twitter](https://x.com/KabilanSelvaku2)
 
 ---
 
