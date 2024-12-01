@@ -1,7 +1,7 @@
 # Hi there, I'm Kabilan! 👋
 
-🚀 **Full Stack Developer & Freelancer**  
-📍 Based in [Location]
+🚀 **Full Stack Developer**  
+📍 Based in Trichy
 
 ---
 
@@ -15,8 +15,6 @@
 ---
 
 ## 🌟 Highlighted Projects  
-- **[Design Hive](https://github.com/Kabilan/design-hive)**  
-  Responsive interior design website showcasing projects with Next.js and TailwindCSS.
 
 - **[Web3 Hackathon Platform](https://github.com/Kabilan/web3-platform)**  
   Decentralized platform for hackathons built during Hackverse 2.0.
@@ -27,7 +25,7 @@
 ---
 
 ## 🧩 Competitive Programming  
-**[LeetCode Profile](https://leetcode.com/your-username)**  
+**[LeetCode Profile](https://leetcode.com/KABILAN-S)**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Baloo&ext=heatmap)
 
 ---
