@@ -6,12 +6,8 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌟 **Skills**: React.js, Next.js, Tailwind CSS, MongoDB, TypeScript, and Java.  
-- 💼 **Freelancer**: I specialize in creating responsive, SEO-friendly web applications.  
-- 🏆 **Achievements**:  
-  - 1st Prize, SNS Colors Project Expo 🏅  
-  - 2nd Prize, Insite Web Design Competition  
-
+- 🌟 **Skills**: React.js, Next.js, Tailwind CSS, MongoDB, TypeScript, and Java.
+  
 ---
 
 ## 🌟 Highlighted Projects  
@@ -52,10 +48,10 @@
 ---
 
 ## 🌐 Connect with Me  
-- 🌐 [Portfolio](https://kabilan-portfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/kabilan)  
-- 📧 [Email](mailto:kabilan@example.com)  
-- 🐦 [Twitter](https://twitter.com/kabilan)
+- 🌐 [Portfolio]([https://kabilan-portfolio.com](https://my-portfolio-eight-dun-84.vercel.app/))  
+- 💼 [LinkedIn]([https://linkedin.com/in/kabilan](https://www.linkedin.com/in/kabilan-s-3aab74256/))  
+- 📧 [Email](mailto:kabilanselvakumar313@gmail.com)  
+- 🐦 [Twitter]([https://twitter.com/kabilan](https://x.com/KabilanSelvaku2))
 
 ---
 
