@@ -26,7 +26,7 @@
 
 ## 🧩 Competitive Programming  
 **[LeetCode Profile](https://leetcode.com/KABILAN-S)**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KABILAN-S?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 
