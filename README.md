@@ -1,22 +1,33 @@
 # Hi there, I'm Kabilan! 👋
 
-🚀 **Full Stack Developer**  
-📍 Based in Trichy
+🚀 **Full Stack Developer & Freelancer**  
+📍 Based in Trichy | 🌟 Open to Opportunities  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🌟 **Skills**: React.js, Next.js, Tailwind CSS, MongoDB, TypeScript, and Java.
-  
+I'm a passionate full-stack developer with a knack for building scalable, responsive, and visually appealing web applications.  
+💡 **Core Values**: Creativity, collaboration, and continuous learning.
+
+- 🔥 Skilled in **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, **MongoDB**, and **Java**.  
+- 🌟 Active participant in hackathons and coding competitions.  
+- 🎯 Dedicated to crafting solutions that blend function with aesthetics.
+
 ---
 
 ## 🌟 Highlighted Projects  
 
-- **[Web3 Hackathon Platform](https://github.com/Kabilan/web3-platform)**  
-  Decentralized platform for hackathons built during Hackverse 2.0.
+### 🔗 [Web3 Hackathon Platform](https://github.com/Kabilan/web3-platform)  
+Decentralized platform revolutionizing hackathons, built during **Hackverse 2.0**.  
+Tech Stack: **React.js**, **Solidity**, **IPFS**, **Web3.js**.  
 
-- **[CRUD App](https://github.com/Kabilan/crud-app)**  
-  Full-stack application with MongoDB, Express.js, and React.js.
+### 🔗 [CRUD App](https://github.com/Kabilan/crud-app)  
+A full-stack CRUD application with user-friendly UI and robust backend.  
+Tech Stack: **MongoDB**, **Express.js**, **React.js**, **Node.js**.  
+
+### 🔗 [Design Hive](https://github.com/Kabilan/design-hive)  
+Responsive website showcasing home interior designs.  
+Tech Stack: **Next.js**, **Tailwind CSS**, **Framer Motion**.
 
 ---
 
@@ -27,6 +38,7 @@
 ---
 
 ## 🔧 Tech Stack  
+
 <p align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
@@ -36,23 +48,30 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
-![Kabilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-KABILAN&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-KABILAN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-KABILAN&show_icons=true&theme=radical" alt="Kabilan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-KABILAN&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-- 🌐 [Portfolio](https://my-portfolio-eight-dun-84.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kabilan-s-3aab74256/) 
-- 📧 [Email](mailto:kabilanselvakumar313@gmail.com)  
-- 🐦 [Twitter](https://x.com/KabilanSelvaku2)
+
+- 🌐 **[Portfolio](https://my-portfolio-eight-dun-84.vercel.app/)**  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/kabilan-s-3aab74256/)**  
+- 📧 **[Email](mailto:kabilanselvakumar313@gmail.com)**  
+- 🐦 **[Twitter](https://x.com/KabilanSelvaku2)**  
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* - Cory House  
+💡 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
