@@ -15,21 +15,7 @@ I'm a passionate full-stack developer with a knack for building scalable, respon
 
 ---
 
-## 🌟 Highlighted Projects  
 
-### 🔗 [Web3 Hackathon Platform](https://github.com/Kabilan/web3-platform)  
-Decentralized platform revolutionizing hackathons, built during **Hackverse 2.0**.  
-Tech Stack: **React.js**, **Solidity**, **IPFS**, **Web3.js**.  
-
-### 🔗 [CRUD App](https://github.com/Kabilan/crud-app)  
-A full-stack CRUD application with user-friendly UI and robust backend.  
-Tech Stack: **MongoDB**, **Express.js**, **React.js**, **Node.js**.  
-
-### 🔗 [Design Hive](https://github.com/Kabilan/design-hive)  
-Responsive website showcasing home interior designs.  
-Tech Stack: **Next.js**, **Tailwind CSS**, **Framer Motion**.
-
----
 
 ## 🧩 Competitive Programming  
 **[LeetCode Profile](https://leetcode.com/KABILAN-S)**  
