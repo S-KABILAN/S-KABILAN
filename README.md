@@ -1,6 +1,6 @@
 # Hi there, I'm Kabilan! 👋
 
-🚀 **Full Stack Developer & Freelancer**  
+🚀 **Full Stack Developer **  
 📍 Based in Trichy | 🌟 Open to Opportunities  
 
 ---
